@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @rushi_pharate07
-- 👀 I’m interested in cyber security
-- 🐧 I’m currently learning linux
+- 👋 Hi, I am @rushi_pharate07.
+- 👀 I am interested in cyber security.
+- 🐧 I am currently learning linux.
