@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @rushi_pharate07
-- 👀 I’m interested in hacking
+- 👀 I’m interested in cyber security
 - 🐧 I’m currently learning linux
